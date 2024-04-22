@@ -12,6 +12,8 @@ My research interests include network attack and defense, CTF competitions, phys
 
 You can contact me through the following methods: 
 
-Email: sec.fan@qq.com
+Email： [Email](mailto:sec.fan@qq.com) 
+Github：[Github](https://monsterfansec.github.io/) 
+QQ: 1370397561
 <br />
 ————————————————
