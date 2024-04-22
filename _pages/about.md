@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Monster"
+title: "Welcome U"
 author_profile: true
 redirect_from: 
   - /about/
